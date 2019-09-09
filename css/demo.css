@@ -66,12 +66,11 @@ section {
 	font-weight: 800;
 	font-size: 4em;
 	line-height: 1;
-	padding: 0 0 10px 0;
 }
 
 .codrops-header h1 span {
 	display: block;
-	padding: 0 0 0.6em 0.1em;
+	padding: 10px 0 0.6em 0.1em;
 	color: #fff;
 	font-weight: 300;
 	font-size: 45%;
