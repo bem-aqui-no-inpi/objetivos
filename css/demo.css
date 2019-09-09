@@ -15,7 +15,7 @@
 
 body {
 	background: #2f3238;
-	color: #fff;
+	color: #FF1F44;
 	font-weight: 400;
 	font-size: 1em;
 	font-family: 'Raleway', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 
 a {
 	outline: none;
-	color: #3498db;
+	color: #FF1F44;
 	text-decoration: none;
 }
 
@@ -38,7 +38,7 @@ section {
 
 .content {
 	margin: 0 auto;
-	max-width: 1106,66px;
+	max-width: 1106.66px;
 }
 
 .content > h2 {
@@ -71,7 +71,7 @@ section {
 .codrops-header h1 span {
 	display: block;
 	padding: 0 0 0.6em 0.1em;
-	color: #74777b;
+	color: #fff;
 	font-weight: 300;
 	font-size: 45%;
 }
